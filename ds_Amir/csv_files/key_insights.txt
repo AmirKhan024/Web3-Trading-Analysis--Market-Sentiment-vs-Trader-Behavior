@@ -1,0 +1,10 @@
+1. Most Active Sentiment Period: Fear with 133,871 trades
+2. Most Profitable Sentiment: Greed (Avg PnL: $167.21)
+3. Least Profitable Sentiment: Extreme Greed (Avg PnL: $40.85)
+4. Highest Win Rate: Fear (86.12% profitable trades)
+5. Highest Trading Volume: Fear ($704,158,492.98)
+6. Most Buy-Heavy Sentiment: Fear (49.4% buys)
+7. Sentiment-Volume Correlation: -0.024
+8. Sentiment-PnL Correlation: 0.011
+9. Total Unique Traders: 32
+10. Total Unique Coins Traded: 239

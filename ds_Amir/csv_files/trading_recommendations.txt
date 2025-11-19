@@ -1,0 +1,21 @@
+STRATEGIC TRADING RECOMMENDATIONS:
+
+1. SENTIMENT-BASED ENTRY/EXIT:
+   - Monitor sentiment shifts from extreme fear to fear as potential buy signals
+   - Consider profit-taking when sentiment shifts from greed to extreme greed
+
+2. VOLUME ANALYSIS:
+   - High volume during fear periods may indicate capitulation and reversal opportunities
+   - Declining volume during greed phases could signal weakening momentum
+
+3. RISK MANAGEMENT:
+   - Reduce position sizes during extreme sentiment periods (both fear and greed)
+   - Neutral sentiment periods show more consistent trading patterns
+
+4. CONTRARIAN OPPORTUNITIES:
+   - Extreme fear often precedes strong rebounds - look for accumulation signals
+   - Extreme greed periods require caution and tight stop-losses
+
+5. DIVERSIFICATION:
+   - Different coins perform differently across sentiment phases
+   - Analyze top coins per sentiment for optimal asset allocation
